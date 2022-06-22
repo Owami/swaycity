@@ -1,0 +1,1 @@
+<button class="btn btn-app-blue btn-block" data-toggle="modal" data-target="#client" type="button">New Sale</button>
